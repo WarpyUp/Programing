@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/TypeScript/!Start TypeScript.md",
+                "file": "Programming/Angular/Notes/API http calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Start TypeScript"
+              "title": "API http calls"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/TypeScript/!Start TypeScript.md",
+                "file": "Programming/Angular/Notes/API http calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for !Start TypeScript"
+              "title": "Backlinks for API http calls"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/TypeScript/!Start TypeScript.md",
+                "file": "Programming/Angular/Notes/API http calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from !Start TypeScript"
+              "title": "Outgoing links from API http calls"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/TypeScript/!Start TypeScript.md",
+                "file": "Programming/Angular/Notes/API http calls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !Start TypeScript"
+              "title": "Outline of API http calls"
             }
           },
           {
@@ -181,7 +181,9 @@
   },
   "active": "52980f8bdfe931bd",
   "lastOpenFiles": [
+    "Programming/Angular/Notes/@Input() @Output().md",
     "Programming/24-06-25.md",
+    "Programming/TypeScript/!Start TypeScript.md",
     "Programming/Untitled.canvas"
   ]
 }

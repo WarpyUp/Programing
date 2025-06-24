@@ -21,7 +21,7 @@
 19. [[Omit]]
 **OOP**
 20. [[Класи]]
-21. [[Read-Only and Optional Properties]]
+21. [[Read-Only, Static and Optional Properties]]
 22. [[Access Control Keywords]] 
 23. [[Get and Set]]
 24. [[Static Members]]

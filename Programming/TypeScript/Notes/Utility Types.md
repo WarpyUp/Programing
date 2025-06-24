@@ -3,7 +3,6 @@
 
 Найпоширеніші включають: `Partial`, `Readonly`, `Pick`, `Omit`, `Exclude`, `Extract`, `NonNullable`, `Record`, `Parameters`, `ReturnType`, `Awaited`.
 
-
 ---
 
 ### 1. `Partial<Type>`

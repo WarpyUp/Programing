@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/TypeScript/Notes/Read-Only and Optional Properties.md",
+                "file": "Programming/TypeScript/Notes/Класи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read-Only and Optional Properties"
+              "title": "Класи"
             }
           }
         ]
@@ -181,32 +181,32 @@
   },
   "active": "52980f8bdfe931bd",
   "lastOpenFiles": [
-    "Programming/TypeScript/Notes/Static Members.md",
-    "Programming/TypeScript/Notes/Template String.md",
-    "Programming/TypeScript/Notes/Optional Property Access Operator(Optional Chaining).md",
-    "Programming/TypeScript/Notes/Read-Only and Optional Properties.md",
-    "Programming/TypeScript/Notes/Readonly and Static.md",
-    "Programming/TypeScript/!Start TypeScript.md",
-    "Programming/TypeScript/Notes/Що таке TypeScript.md",
-    "Programming/TypeScript/Notes/Функції.md",
+    "Programming/TypeScript/Notes/Перетворення String to Number.md",
     "Programming/TypeScript/Notes/Типи змінних.md",
+    "Programming/TypeScript/Notes/Функції.md",
+    "Programming/TypeScript/Notes/Narrowing.md",
     "Programming/TypeScript/Notes/Класи.md",
     "Programming/TypeScript/Notes/Деструктуризація Обєкта.md",
     "Programming/TypeScript/Notes/Utility Types.md",
+    "Programming/TypeScript/Notes/Union Types.md",
     "Programming/TypeScript/Notes/Type Mapping.md",
     "Programming/TypeScript/Notes/Type Assertions.md",
     "Programming/TypeScript/Notes/Type Alias.md",
     "Programming/TypeScript/Notes/Tuples.md",
+    "Programming/TypeScript/Notes/Template String.md",
+    "Programming/TypeScript/Notes/Read-Only, Static and Optional Properties.md",
+    "Programming/TypeScript/Notes/Static Members.md",
+    "Programming/TypeScript/Notes/Optional Property Access Operator(Optional Chaining).md",
+    "Programming/TypeScript/Notes/Readonly and Static.md",
+    "Programming/TypeScript/!Start TypeScript.md",
+    "Programming/TypeScript/Notes/Що таке TypeScript.md",
     "Programming/TypeScript/Notes/Objects.md",
     "Programming/TypeScript/Notes/Nullish Coalescing Operator.md",
-    "Programming/TypeScript/Notes/Narrowing.md",
     "Programming/TypeScript/Notes/Modules.md",
     "Programming/TypeScript/Notes/Logical OR.md",
     "Programming/TypeScript/Notes/Literal Types.md",
     "Programming/TypeScript/Notes/keyof.md",
     "Programming/TypeScript/Notes/Intersection Types.md",
-    "Programming/TypeScript/Notes/Interface.md",
-    "Programming/TypeScript/Notes/Inheritance.md",
     "TEST",
     "Pasted image 20250624102205.png",
     "Pasted image 20250624102300.png",

@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52980f8bdfe931bd",
+  "active": "abb1c288d6b36eba",
   "lastOpenFiles": [
+    "Untitled",
     "Programming/Terraform.md",
     "Programming/Angular/Notes/Firestore.md",
     "Programming/Angular/Notes/FirestoreDataConverter.md",
@@ -206,7 +207,6 @@
     "Programming/Angular/Notes/Control Flow Blocks @for.md",
     "Programming/Angular/Notes/Components.md",
     "Programming/Angular/Notes/Built-In Modules.md",
-    "Programming/Angular/Notes/async, await.md",
     "Pasted image 20250624102205.png",
     "Pasted image 20250624102300.png",
     "Programming/Untitled.canvas"

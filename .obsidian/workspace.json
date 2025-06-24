@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Angular/Notes/Firebase.md",
+                "file": "Programming/Angular/Notes/Firestore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firebase"
+              "title": "Firestore"
             }
           }
         ]
@@ -181,6 +181,20 @@
   },
   "active": "52980f8bdfe931bd",
   "lastOpenFiles": [
+    "Programming/Angular/Notes/FirestoreDataConverter.md",
+    "Programming/Angular/Notes/Firestore.md",
+    "Programming/Git.md",
+    "Programming/Angular/Notes/ReactiveFormsModule.md",
+    "Programming/Angular/Notes/Promise.md",
+    "Programming/Angular/Notes/Pipes.md",
+    "Programming/Angular/Notes/Operators.md",
+    "Programming/Angular/Notes/Observer.md",
+    "Programming/Angular/Notes/Observable.md",
+    "Programming/Angular/Notes/Nebular Dialog.md",
+    "Programming/Angular/Notes/Nebular.md",
+    "Programming/Angular/Notes/Modules Angular.md",
+    "Programming/Angular/Notes/Firebase Installation.md",
+    "Programming/Angular/Notes/Firebase.md",
     "Programming/Angular/Notes/Event Listener.md",
     "Programming/Angular/Notes/DocumentReference.md",
     "Programming/Angular/Notes/Directives.md",
@@ -193,17 +207,8 @@
     "Programming/Angular/Notes/Built-In Modules.md",
     "Programming/Angular/Notes/async, await.md",
     "Programming/Angular/Notes/Async Pipe.md",
-    "Programming/Angular/Notes/API http calls.md",
-    "Programming/Angular/Notes/@Input() @Output().md",
-    "Programming/Git.md",
-    "Programming/zsh.md",
     "Pasted image 20250624102205.png",
     "Pasted image 20250624102300.png",
-    "Programming/Untitled.canvas",
-    "Programming/TypeScript/Notes/Type Alias.md",
-    "Programming/TypeScript/!Start TypeScript.md",
-    "Programming/TypeScript/Notes/Що таке TypeScript.md",
-    "Programming/Angular/!Start Angular.md",
-    "Programming/Angular/Notes/Modules Angular.md"
+    "Programming/Untitled.canvas"
   ]
 }

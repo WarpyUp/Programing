@@ -9,7 +9,6 @@ ng g service services/todos
 Сервіс не створює для себе окрему папку, а просто створює два файла: `service.ts` і `service.spec.ts`.
 
 Для сервісів використовується декоратор `@Injectable`.
-
 ```ts title:todo.service.ts
 @Injectable({  
 	providedIn: 'root'  

@@ -4,5 +4,5 @@
   "cssTheme": "Minimal",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": false
 }

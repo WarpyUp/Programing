@@ -1,7 +1,7 @@
 Using --global flag to set name/email for global commits (personal one recomended)
 ```bash
 git config --global user.name "Your Personal Name"
-git config --global user.email "Your Personal Email"
+git config --global user.email "Your Email"
 ```
 
 Check it
@@ -74,3 +74,4 @@ Type name of the token, expiration date (recommended not to use 'No expiration' 
 Copy token and save it somewhere save, use where needed(WebStorm)
 
 
+hello

@@ -72,6 +72,3 @@ GitHub -> Setting -> Developer Setting(at the very buttom) ->  Personal access t
 ```
 Type name of the token, expiration date (recommended not to use 'No expiration' as it is not safe), select scopes
 Copy token and save it somewhere save, use where needed(WebStorm)
-
-
-hello

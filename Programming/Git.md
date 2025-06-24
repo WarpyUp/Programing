@@ -31,3 +31,14 @@ To copy SSH key and add it to the GitHub Account
 ```bash
 cat name_of_SSH_key.pub
 ```
+
+Going into GitHub -> Settings -> New SSH key
+![[Pasted image 20250624102205.png]]![[Pasted image 20250624102300.png]]
+
+For setting personal and work accounts 
+
+Practical use: when coping repo from GitHub we can use 
+```bash
+git clone git@github-personal:your-username/repo.git
+```
+

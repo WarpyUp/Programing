@@ -24,7 +24,7 @@
 ### Код
 
 ```js
-async function logFetch(url) {  
+async function logFetch(url): Promise<void> {  
 	const response = await fetch(url);  
 	console.log(await response.text());  
 }

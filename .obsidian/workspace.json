@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Angular/Notes/async, await.md",
+                "file": "Programming/Angular/Notes/Firebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "async, await"
+              "title": "Firebase"
             }
           }
         ]
@@ -181,6 +181,17 @@
   },
   "active": "52980f8bdfe931bd",
   "lastOpenFiles": [
+    "Programming/Angular/Notes/Event Listener.md",
+    "Programming/Angular/Notes/DocumentReference.md",
+    "Programming/Angular/Notes/Directives.md",
+    "Programming/Angular/Notes/Destroy Pattern.md",
+    "Programming/Angular/Notes/Dependency Injection.md",
+    "Programming/Angular/Notes/Data-Binding.md",
+    "Programming/Angular/Notes/CSS.md",
+    "Programming/Angular/Notes/Control Flow Blocks @for.md",
+    "Programming/Angular/Notes/Components.md",
+    "Programming/Angular/Notes/Built-In Modules.md",
+    "Programming/Angular/Notes/async, await.md",
     "Programming/Angular/Notes/Async Pipe.md",
     "Programming/Angular/Notes/API http calls.md",
     "Programming/Angular/Notes/@Input() @Output().md",

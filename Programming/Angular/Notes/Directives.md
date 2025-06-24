@@ -6,8 +6,6 @@
 3. Structural directives - добавляють або забирають деякі речі з DOM на основі певних умов.
 
 [[Структурні Директиви|Вбудовані Directives]]
-
-
 ### Створення власних Directives:
 ```bash
 ng g directive directives/highlight-completed-todo

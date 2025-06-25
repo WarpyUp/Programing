@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Untitled 1.md",
+                "file": "Programming/Типи баз даних - Row-Oriented vs Column-Oriented.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Типи баз даних - Row-Oriented vs Column-Oriented"
             }
           }
         ]
@@ -182,7 +182,7 @@
   "active": "52980f8bdfe931bd",
   "lastOpenFiles": [
     "Programming/Untitled.md",
-    "Programming/Untitled 1.md",
+    "Programming/Типи баз даних - Row-Oriented vs Column-Oriented.md",
     "Programming/Git.md",
     "Programming/zsh.md",
     "Programming/Terraform.md",
